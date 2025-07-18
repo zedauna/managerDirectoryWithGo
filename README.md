@@ -10,7 +10,7 @@ Tools in Go for managing Directory
 
 ## Installation
 ```bash
-go clone https://github.com/zedauna/managerDirectoryWithGo.git
+git clone https://github.com/zedauna/managerDirectoryWithGo.git
 ```
 
 ## Utilisation
